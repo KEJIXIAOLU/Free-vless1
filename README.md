@@ -1,4 +1,4 @@
-# 永久免费的节点！免费解锁Netflix、ChatGPT！通过Cloudflare Worker、Pages部署免费的VLESS节点！
+# 永久免费的节点！通过 Cloudflare 部署免费的VLESS节点，4K高速，解锁Netflix、ChatGPT【自动生成 SUB CLASH，SURGE订阅地址、自动优选 IP 等】
 
 ### 前言
 
