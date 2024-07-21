@@ -13,11 +13,17 @@ GitHub 地址：[点击访问>> ](https://github.com/cmliu/edgetunnel)
 
 ## 准备工作：
 
-### **注册 Cloudflare 账号** ：[点击注册](https://dash.cloudflare.com/1fd6ef1f052a191089c7a5628aa6f5a7)
+1、注册 Cloudflare 账号：[点击注册](https://dash.cloudflare.com/1fd6ef1f052a191089c7a5628aa6f5a7)
+
+2、域名一个（虽说可以不使用域名，但是推荐大家还是购买自己的域名，毕竟不贵，一年才 10 元 RMB）  
+ Namesilo 域名地址：[点击访问](https://www.namesilo.com/?rid=fe81174he
+)  （新用户1美元优惠券：kejixiaolu）
+
+## CloudFlare 部署免费节点
 
 ### 下载源文件
 下载作者的 Worker 文件：点击下载 [worker.zip](https://raw.githubusercontent.com/cmliu/edgetunnel/main/worker.zip)
 
 ### Pages 部署 VLESS
-和刚才的方式一样，登录 CloudFlare ，来到 Workers 和 Pages ，和刚才不一样，我们需要点击 Pages ，点击 使用直接上传创建 – 上传资产。
+来到 Cloudflare 首页，点击 Workers 和 Pages ，点击 Pages  ，点击 使用直接上传创建 – 上传资产。
 
