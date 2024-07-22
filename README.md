@@ -13,8 +13,8 @@ GitHub 地址：[点击访问>> ](https://github.com/cmliu/edgetunnel)
 1、注册 Cloudflare 账号：[点击注册](https://dash.cloudflare.com/1fd6ef1f052a191089c7a5628aa6f5a7)  
 2、域名一个（虽说可以不使用域名，但是推荐大家还是购买自己的域名，毕竟不贵，一年才 10 元 RMB）  
  Namesilo 域名地址：[点击访问](https://www.namesilo.com/?rid=fe81174he
-)  （新用户1美元优惠券：kejixiaolu）
-美国地址生成器：[点击生成](https://www.meiguodizhi.com/)
+)  （新用户1美元优惠券：kejixiaolu）  
+美国地址生成器：[点击生成](https://www.meiguodizhi.com/)  
 3、托管域名到 Cloudflare
 
 ## CloudFlare 部署免费节点
