@@ -6,7 +6,7 @@ zizifn 大佬的一个开源项目[ edgetunnel](https://github.com/zizifn/edgetu
 本文是 CM 基于 zizifn 的项目进行了二次创作，其实和 Worker 的部署大同小异，道理是一样的，只是多了很多功能，比如自动生成 SUB CLASH，SURGE订阅地址、自动优选 IP 等。
 GitHub 地址：[点击访问>> ](https://github.com/cmliu/edgetunnel)
 
-视频教程：
+视频教程：https://youtu.be/JXj8NHjdmzc
 
 ## 准备工作：
 
