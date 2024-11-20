@@ -16,12 +16,13 @@ GitHub 地址：[点击访问>> ](https://github.com/cmliu/edgetunnel)
 )  （新用户1美元优惠券：kejixiaolu）  
 美国地址生成器：[点击生成](https://www.meiguodizhi.com/)  
 3、托管域名到 Cloudflare
+域名托管CF教程：https://youtu.be/1GtDTWybJNM?si=tEiYfkfgu_mvEYn8
 
 ## CloudFlare 部署免费节点
 
 来到 Cloudflare 首页，点击 Workers 和 Pages ，点击 Pages  ，点击 使用直接上传创建 – 上传资产。
 ### 下载源文件
-下载作者的 Worker 文件：点击下载 [worker.zip](https://raw.githubusercontent.com/cmliu/edgetunnel/main/worker.zip)
+下载作者的 Worker 文件：点击下载 [worker.zip](https://github.com/KEJIXIAOLU/gongxiang/releases/download/worker/worker.zip)
 
 ### 设置 UUID  
 UUID在线生成：[点击进入>>](https://1024tools.com/uuid/)  
